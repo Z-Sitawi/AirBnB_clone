@@ -92,7 +92,7 @@ section.filters .locations:hover > .popover, section.filters .amenities:hover > 
 
     }
     .filters button {
-        font-size: 15px;
+        font-size: 12px;
         height: 38px;
         width: 15%;
         top: calc(50% - 19px);
@@ -110,10 +110,10 @@ section.filters .locations:hover > .popover, section.filters .amenities:hover > 
         padding: 15px;
     }
     .popover li > h2{
-        font-size: 15px;
+        font-size: 12px;
     }
     .popover li {
-        font-size: 13px;
+        font-size: 7px;
     }
     
     .popover ul > li, .filters .amenities ul.popover > li {

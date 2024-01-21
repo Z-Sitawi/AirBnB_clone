@@ -159,4 +159,7 @@
         top: 15px;
         right: 10px;
     }
+    .container section.places > article > h2{
+        font-size: 25px;
+    }
 }
