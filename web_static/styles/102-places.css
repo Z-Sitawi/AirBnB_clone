@@ -142,3 +142,21 @@
 .container section.places article div.reviews > ul > li > p {
     font-size: 12px;
 }
+
+@media screen and (max-width: 700px) {
+    .container section.places article:last-of-type {
+       margin-bottom: 50px;
+    }
+    .container section.places {
+        padding: 15px 0;
+        gap: 0px;
+ 
+    }
+    .container section.places article div.price_by_night {
+        border: 3px solid  #FF5A5F;
+        border-radius: 50%;
+        font-size: 25px;
+        top: 15px;
+        right: 10px;
+    }
+}
